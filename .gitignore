@@ -38,3 +38,9 @@ terraform.rc
 
 # s3 script output
 bucket_info.txt
+
+**/scripts
+
+/terraform/plan*
+/terraform/.terraform/
+/terraform/.terraform*
